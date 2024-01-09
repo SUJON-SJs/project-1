@@ -1,0 +1,245 @@
+.para{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    padding: 200px 50px;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+header .back {
+    background-image: url(Banner\ Image.jpg.png);
+    width: 1320px;
+    Height: 600px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+}
+header{
+    margin: 50px 310px 140px;
+}
+ 
+nav{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+nav .sale{
+    color: red;
+    font-size: 70px;
+}
+nav .sale2{
+    color: red;
+    font-size: 15px;
+    line-height: 0%;
+    font-style: normal;
+}
+nav .cat{
+font-size: 30px;
+}
+.nxt{
+    background-image: url(Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    margin: 50px 310px 140px;
+    justify-content: space-between;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+}
+div .wclm{
+    padding: 100px 50px;
+    padding-right: 600px;
+}
+div .wclm .wccl{
+    font-size: 60px;
+    word-spacing: 20px;
+}
+div .grp{
+    position: absolute;
+    right: 130px;
+    top: 60px;
+}
+.buttn{
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700px;
+    background-color: transparent;
+    text-decoration: none;
+    margin-right:400px ;
+}
+ div .part3{
+    width: 1320px;
+height: 382px;
+background-image:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+margin: 50px 310px 140px;
+text-align: center;
+font-weight: bold;
+font-size: 25px;
+line-height: 40%;
+}
+div .part3 .part3a{
+    padding-top: 200px;
+    
+}
+.pmry{
+    color: red;
+    font-weight: bold;
+
+}
+.buttn1{
+    color: #ffff;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 20px ;
+}
+.bonus{
+    width: 1550px;
+    height: 435px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    position: relative;
+}
+.bonus1{
+    text-align:left;
+    padding-left: 320px;
+    text-align-last: left;
+}
+.bonus1 .bonusa{
+    color: #F00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.bonus1 .bonusb{
+    color:#070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+}
+.bonus .bonusC{
+    color:rgba(7, 2, 17, 0.60);
+    line-height: 32px;
+}
+.Ellipse{
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+
+
+}
+.Group{
+height: 150px;
+margin-bottom: 0px;
+}
+.part4a{
+    text-align: center;
+}
+.part4aa{
+color: #070211;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+margin-top: 50px;
+font-weight: 600;
+}
+.part4a .hld{
+    font-size: 50px;
+}
+.part4a .HOLIDAY{
+    color: #F00;
+}
+.part4a .part4aaa{
+    width: 568px;
+    margin: 20px auto;
+    color: rgba(7, 2, 17, 0.60);
+
+}
+.part5{
+    width: 300px;
+display: flex;
+justify-content: center;
+margin-left: 300px;
+
+    
+}
+
+
+.part6{
+    width: 1600px;
+    height: 1335px;
+    background: #FFF;
+    justify-content: center;
+    margin-left: 400px;
+}
+.part61{
+    line-height-step: 0%;
+}
+.part6a{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part6b{
+    color: #070211;
+    font-size: 50px;
+}
+.part6c{
+    color: rgba(7, 2, 17, 0.60);
+    width: 596px;
+}
+    
+.part7{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 350PX;
+    text-align: center;
+
+}
+.part7 .part7a{
+padding-top: 200px;
+}
+.part7 .part7b{
+    font-size: 44px;
+}
+.part7 .part7c{
+    width: 696px;
+    margin-left: 310px;
+}
+.part7 .part7d{
+    border-radius: 50px ;
+    width: 448px;
+height: 32px;
+position: relative;
+
+}
+.part7 .part7e{
+    position: absolute;
+    width: 100px;
+    height: 38px;
+    margin-left: -100px;
+    border-style: hidden;
+    border-radius: 0cap;
+    background: #F00;
+    color: #FFF;
+}
+footer{
+    background: #070211;
+height: 609px;
+color: #FFF;
+}
+.part8{
+    padding-top: 200px;
+}
+.part8 .part8a{
+    display: inline;
+}
